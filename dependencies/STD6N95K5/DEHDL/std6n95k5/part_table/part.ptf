@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STD6N95K5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STD6N95K5" (!) = "", "STD13N60DM2", "Other", "511-STD6N95K5", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STD6N95K5?qs=mxm%2FV7p14IOvK69mK8m2Bw%3D%3D", "STD6N95K5", "https://www.arrow.com/en/products/std6n95k5/stmicroelectronics", "STMICROELECTRONICS - STD6N95K5 - MOSFET Transistor, N Channel, 9 A, 950 V, 1 ohm, 10 V, 4 V", "https://www.mouser.com/datasheet/2/389/std6n95k5-955603.pdf", "2 mm"
+END_PART
+
+END.

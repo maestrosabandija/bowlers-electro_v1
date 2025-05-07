@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HB9500M-9_5-2P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-28-05:36:58)
+    (mountForm default
+        (footprintRef "HB9500M952P")
+        (spec "System")
+    )
+)

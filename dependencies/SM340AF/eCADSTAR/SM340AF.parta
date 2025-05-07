@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_15091825"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-07-10:17:22)
+    (utime 2024-01-07-06:27:10)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SM340AF")
+)
+
+
+(pinAssign "ECS_15091825"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-07-10:17:22)
+    (utime 2024-01-07-06:27:10)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_15091825")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SM340AF")
+)
+
+
+(part "SM340AF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-07-10:17:22)
+    (utime 2024-01-07-06:27:10)
+    (packageRef "SM340AF")
+    (pinAssignRef "ECS_15091825")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Diode Schottky 40V 3A 2-Pin SMA-FL T/R")
+    (property "Manufacturer_Name" "LRC")
+    (property "Manufacturer_Part_Number" "SM340AF")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://datasheet.lcsc.com/lcsc/1912111437_LRC-SM340AF_C354996.pdf")
+    (property "compAreaTopHeight" 1.2)
+)
+
+

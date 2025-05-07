@@ -1,0 +1,9 @@
+Manufacturer=Everlight
+PartNumber=EL817S1(C)(TU)-F
+PartCategory=Phototransistor
+PackageCategory=Small Outline Packages
+PinCount=4
+Version=2.1
+Released=2020-08-19 16:26:26
+Downloaded=2024-09-05 23:11:51
+3D=Y

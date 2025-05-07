@@ -1,0 +1,18 @@
+.DRV8872DDAR :1 ;3.6A Brushed DC Motor Driver With Fault Reporting (PWM Ctrl) 
+SOIC127P600X170-9N
+*STM IC
+*NGS
+*PLB 1="GND" 2="IN2" 3="IN1" 4="NFAULT" 5="VM" 6="OUT1" 7="ISEN" 8="OUT2" 9="EP"
+*MXP 9
+*DFN DRV8872DDAR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8872DDAR)
+~!Mouser Part Number (595-DRV8872DDAR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8872DDAR?qs=Fobv33ltQGgHyGKgoxjXAw%3D%3D)
+~!Arrow Part Number (DRV8872DDAR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/drv8872ddar/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/drv8872)
+~!Height (1.7mm)
+~!3D_Model (DRV8872DDAR)
+DRV8872DDAR
+1.1!G 2.1!I 3.1!I 4.1!Y 9.1!U 8.1!Y 7.1!G 6.1!Y 5.1!P 

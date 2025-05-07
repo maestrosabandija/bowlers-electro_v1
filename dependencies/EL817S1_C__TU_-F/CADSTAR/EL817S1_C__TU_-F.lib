@@ -1,0 +1,18 @@
+.EL817S1_C__TU_-F :1 ;DC-IN 1-CH Transistor DC-OUT 4-Pin PDIP SMD T/R
+SOP254P1030X390-4N
+*STM Q
+*NGS
+*PLB 1="A" 2="K" 3="E" 4="C"
+*MXP 4
+*DFN EL817S1_C__TU_-F
+~!Manufacturer_Name (Everlight)
+~!Manufacturer_Part_Number (EL817S1(C)(TU)-F)
+~!Mouser Part Number (638-EL817S1CTU-F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Everlight/EL817S1CTU-F?qs=By6Nw2ByBD13jSIKYv67HQ%3D%3D)
+~!Arrow Part Number (EL817S1(C)(TU)-F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/el817s1-c-tu-f/everlight-electronics?region=nac)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL817S1-C-TU-F_C106900.pdf)
+~!Height (3.9mm)
+~!3D_Model (EL817S1_C__TU_-F)
+EL817S1_C__TU_-F
+1.1!U 2.1!U 4.1!U 3.1!U 

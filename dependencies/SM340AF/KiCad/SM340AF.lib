@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SM340AF
+#/15091825/1126431/2.50/2/3/Schottky Diode
+DEF SM340AF D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "SM340AF" 500 250 50 H V L CNN
+F2 "SODFL4625X120N" 500 150 50 H I L CNN
+F3 "https://datasheet.lcsc.com/lcsc/1912111437_LRC-SM340AF_C354996.pdf" 500 50 50 H I L CNN
+F4 "Diode Schottky 40V 3A 2-Pin SMA-FL T/R" 500 -50 50 H I L CNN "Description"
+F5 "1.2" 500 -150 50 H I L CNN "Height"
+F6 "LRC" 500 -250 50 H I L CNN "Manufacturer_Name"
+F7 "SM340AF" 500 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 500 -450 50 H I L CNN "Mouser Part Number"
+F9 "" 500 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "" 500 -650 50 H I L CNN "Arrow Part Number"
+F11 "" 500 -750 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

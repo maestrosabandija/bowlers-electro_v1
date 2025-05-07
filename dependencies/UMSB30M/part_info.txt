@@ -1,0 +1,9 @@
+Manufacturer=N2Power
+PartNumber=UMSB30M
+PartCategory=Bridge Rectifier
+PackageCategory=SO Transistor Flat Lead
+PinCount=4
+Version=1.1
+Released=2021-05-10 20:21:57
+Downloaded=2024-09-05 21:13:33
+3D=Y

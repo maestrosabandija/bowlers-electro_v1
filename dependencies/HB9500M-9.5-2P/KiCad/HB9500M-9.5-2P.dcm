@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HB9500M-9.5-2P
+D 1x2P Corner pin Barrier Block 2 1 9.5mm -40+105 32A 750V Black 1222 Straight pin 4 PluginP9.5mm  Barrier Terminal Blocks ROHS
+K
+F https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Kangnex-Elec-HB9500M-9-5-2P_C601239.pdf
+$ENDCMP
+#
+#End Doc Library

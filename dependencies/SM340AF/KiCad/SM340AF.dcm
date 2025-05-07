@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM340AF
+D Diode Schottky 40V 3A 2-Pin SMA-FL T/R
+K
+F https://datasheet.lcsc.com/lcsc/1912111437_LRC-SM340AF_C354996.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.UMSB30M :1 ;1kV 3A 1.6V @ 3A 5uA @ 1kV 80A -55~+150 UMSB Bridge Rectifiers RoHS
+SOTFL510P865X150-4N
+*STM BR
+*NGS
+*PLB 1="OUTPUT A(+)" 2="OUTPUT K(-)" 3="INPUT PIN(¬)_1" 4="INPUT PIN(¬)_2"
+*MXP 4
+*DFN UMSB30M
+~!Manufacturer_Name (N2Power)
+~!Manufacturer_Part_Number (UMSB30M)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/1904041131_Shandong-Jingdao-Microelectronics-UMSB30M_C382769.pdf)
+~!Height (1.5mm)
+~!3D_Model (UMSB30M)
+UMSB30M
+1.1!U 2.1!U 3.1!U 4.1!U 

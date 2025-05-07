@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HB9500M-9.5-2P"
+   (description "1x2P Corner pin Barrier Block 2 1 9.5mm -40+105 32A 750V Black 1222 Straight pin 4 PluginP9.5mm  Barrier Terminal Blocks ROHS")
+   (family "CON")
+   (package "HB9500M952P")
+   (attribute "Datasheet Link" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Ningbo-Kangnex-Elec-HB9500M-9-5-2P_C601239.pdf")
+   (attribute "Geometry.Height" "16.95mm")
+   (attribute "Manufacturer_Name" "Ningbo Kangnex")
+   (attribute "Manufacturer_Part_Number" "HB9500M-9.5-2P")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "HB9500M-9.5-2P")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "HB9500M-9.5-2P"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HB9500M952P"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.5 -12.05)
+      (pt 15 -12.05)
+      (pt 15 3.95)
+      (pt -5.5 3.95)
+      (pt -5.5 -12.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5.5 -12.05)
+      (pt 15 -12.05)
+      (pt 15 3.95)
+      (pt -5.5 3.95)
+      (pt -5.5 -12.05))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.5 4.95)
+      (pt 16 4.95)
+      (pt 16 -13.05)
+      (pt -6.5 -13.05)
+      (pt -6.5 4.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 4.6)
+      (arc (pt 0.000 4.600) (pt -0.050 4.500) (pt 0.050 4.600) (start 180.0) (sweep 90.0))
+      (pt 0 4.5)
+      (arc (pt 0.000 4.500) (pt -0.050 4.500) (pt 0.050 4.600) (start 180.0) (sweep -90.0))
+      (pt 0 4.6))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 9.500 0.000) (padstack 2))
+   (padstack 0
+    (hole 1.86)
+    (plated true)
+    (pad (layer TCOP) (square 2.790))
+    (pad (layer INNER) (round 2.790))
+    (pad (layer BCOP) (square 2.790))
+   )
+   (padstack 2
+    (hole 1.86)
+    (plated true)
+    (pad (layer TCOP) (round 2.790))
+    (pad (layer INNER) (round 2.790))
+    (pad (layer BCOP) (round 2.790))
+   )
+   (model "HB9500M-9.5-2P.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

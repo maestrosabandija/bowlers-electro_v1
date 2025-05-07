@@ -1,0 +1,9 @@
+Manufacturer=Ningbo Kangnex
+PartNumber=HB9500M-9.5-2P
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2024-05-28 05:36:58
+Downloaded=2024-08-29 18:20:58
+3D=Y

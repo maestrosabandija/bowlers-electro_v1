@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STD6N95K5
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2019-09-28 10:49:16
+Downloaded=2024-09-05 22:35:47
+3D=Y

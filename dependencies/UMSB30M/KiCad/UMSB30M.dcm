@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UMSB30M
+D 1kV 3A 1.6V @ 3A 5uA @ 1kV 80A -55~+150 UMSB Bridge Rectifiers RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/1904041131_Shandong-Jingdao-Microelectronics-UMSB30M_C382769.pdf
+$ENDCMP
+#
+#End Doc Library

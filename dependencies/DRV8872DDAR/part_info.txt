@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8872DDAR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=3.2
+Released=2018-01-14 01:16:40
+Downloaded=2024-08-29 14:50:57
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SM340AF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LRC", "SM340AF" (!) = "", "SODFL4625X120N", "Small Outline Diode Flat Lead", "", "", "", "", "Diode Schottky 40V 3A 2-Pin SMA-FL T/R", "https://datasheet.lcsc.com/lcsc/1912111437_LRC-SM340AF_C354996.pdf", "1.2 mm"
+END_PART
+
+END.

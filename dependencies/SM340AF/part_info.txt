@@ -1,0 +1,9 @@
+Manufacturer=LRC
+PartNumber=SM340AF
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=1.1
+Released=2021-09-07 10:17:22
+Downloaded=2024-09-08 10:20:25
+3D=Y

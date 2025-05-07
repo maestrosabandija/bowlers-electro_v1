@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HB9500M952P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HB9500M952P")
+        (spec "default")
+    )
+)

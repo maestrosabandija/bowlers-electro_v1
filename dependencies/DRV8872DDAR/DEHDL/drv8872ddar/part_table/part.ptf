@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8872DDAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8872DDAR" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "595-DRV8872DDAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8872DDAR?qs=Fobv33ltQGgHyGKgoxjXAw%3D%3D", "DRV8872DDAR", "https://www.arrow.com/en/products/drv8872ddar/texas-instruments?region=nac", "3.6A Brushed DC Motor Driver With Fault Reporting (PWM Ctrl) ", "http://www.ti.com/lit/gpn/drv8872", "1.7 mm"
+END_PART
+
+END.

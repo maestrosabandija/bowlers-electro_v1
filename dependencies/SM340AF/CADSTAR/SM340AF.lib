@@ -1,0 +1,18 @@
+.SM340AF :1 ;Diode Schottky 40V 3A 2-Pin SMA-FL T/R
+SODFL4625X120N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SM340AF
+~!Manufacturer_Name (LRC)
+~!Manufacturer_Part_Number (SM340AF)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/1912111437_LRC-SM340AF_C354996.pdf)
+~!Height (1.2mm)
+~!3D_Model (SM340AF)
+SM340AF
+1.1!U 2.1!U 

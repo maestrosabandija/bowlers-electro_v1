@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STD6N95K5
+D STMICROELECTRONICS - STD6N95K5 - MOSFET Transistor, N Channel, 9 A, 950 V, 1 ohm, 10 V, 4 V
+K
+F https://www.mouser.com/datasheet/2/389/std6n95k5-955603.pdf
+$ENDCMP
+#
+#End Doc Library

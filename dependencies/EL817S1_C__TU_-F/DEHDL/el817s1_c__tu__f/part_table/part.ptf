@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EL817S1_C__TU__F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Everlight", "EL817S1(C)(TU)-F" (!) = "", "SOP254P1030X390-4N", "Small Outline Packages", "638-EL817S1CTU-F", "https://www.mouser.co.uk/ProductDetail/Everlight/EL817S1CTU-F?qs=By6Nw2ByBD13jSIKYv67HQ%3D%3D", "EL817S1(C)(TU)-F", "https://www.arrow.com/en/products/el817s1-c-tu-f/everlight-electronics?region=nac", "DC-IN 1-CH Transistor DC-OUT 4-Pin PDIP SMD T/R", "https://datasheet.lcsc.com/szlcsc/Everlight-Elec-EL817S1-C-TU-F_C106900.pdf", "3.9 mm"
+END_PART
+
+END.

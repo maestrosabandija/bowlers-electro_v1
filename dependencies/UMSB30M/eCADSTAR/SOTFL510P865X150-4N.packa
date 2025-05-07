@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "UMSB30M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-10:55:41)
+    (mountForm default
+        (footprintRef "SOTFL510P865X150-4N")
+        (spec "System")
+    )
+)
